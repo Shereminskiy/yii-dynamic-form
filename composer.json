@@ -1,8 +1,9 @@
 {
-    "name": "wbraganca/yii2-dynamicform",
+    "name": "Shereminskiy/yii-dynamic-form",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
         "wbraganca",
+        "Shereminskiy",
         "yii2",
         "extension",
         "widget",
@@ -13,9 +14,9 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/wbraganca/yii2-dynamicform/issues",
-        "wiki": "https://github.com/wbraganca/yii2-dynamicform/wiki/",
-        "source": "https://github.com/wbraganca/yii2-dynamicform"
+        "issues": "https://github.com/Shereminskiy/yii-dynamic-form/issues",
+        "wiki": "https://github.com/Shereminskiy/yii-dynamic-form/wiki/",
+        "source": "https://github.com/Shereminskiy/yii-dynamic-form"
     },
     "authors": [
         {
